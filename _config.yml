@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Luke Fisher / Site Title"
 title_separator          : "-"
-name                     : &name "Luke Fisher"
+name                     : &namea "Luke Fisher"
 description              : &description "personal description"
-url                      : https://github.com/luke-c-fisher/luke.fisher-portfolio-github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://luke-c-fisher.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
