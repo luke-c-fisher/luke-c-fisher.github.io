@@ -11,23 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* B.A. in Economics, Michigan State University, 2025
+<!-- * B.S. in GitHub, GitHub University, 2012 -->
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
+* Summer 2023: Enterprise Procurement Intern
+  * Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
+o  Identified areas for cost optimization and improved procurement processes.
+  * Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
+o Implemented supplier consolidation and processed improvements to achieve budgetary goals.
+o Key Result: Contributed to achieving significant cost reductions and efficiency improvements.
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+* Fall 2022: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+* Summer 2024: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
