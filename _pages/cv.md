@@ -33,20 +33,20 @@ Work experience
 * Fall 2022: *Research Assistant*
 * *East Lansing, MI* 
   * Established an open and engaging line of communication between the University and its supporters.
-   * Delivered persuasive sales consultations regarding alumni foundations and student programs.
-   * Educated potential alumni donors on various philanthropic efforts for current students facing financial
+    * Delivered persuasive sales consultations regarding alumni foundations and student programs.
+    * Educated potential alumni donors on various philanthropic efforts for current students facing financial
    hardship.
   * Established and maintained rapport with potential donors.
-   * **Key Result:**  Developed strong sales techniques, contributing to alumni donation growth.
+    * **Key Result:**  Developed strong sales techniques, contributing to alumni donation growth.
 
 **Cat Tours**
 * Summer 2024: *Tour Guide*
 * *Barcelona, Spain*
   * Led historical tours, offering in-depth knowledge of Barcelona’s key landmarks in the old city.
-   * Duties included: Tagging issues
-   * Supervisor: Professor Git
+    * Engaged diverse groups with interactive storytelling and cultural insights.
+    * Demonstrated adaptability and leadership by improvising based on group interests and external factor
   * Strengthened communication and public speaking skills through daily interactions with international visitors.
-   * **Key Result:** Improved customer satisfaction and gained strong leadership skills.
+    * **Key Result:** Improved customer satisfaction and gained strong leadership skills.
   
 Skills
 ======
