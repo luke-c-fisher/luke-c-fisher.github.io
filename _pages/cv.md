@@ -20,23 +20,30 @@ Education
 
 Work experience
 ======
-* Summer 2023: Enterprise Procurement Intern
+**CVS Health**
+* Summer 2023: *Enterprise Procurement Intern*
   * Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
     * Identified areas for cost optimization and improved procurement processes.
   * Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
     * Implemented supplier consolidation and processed improvements to achieve budgetary goals.
   * **Key Result:** Contributed to achieving significant cost reductions and efficiency improvements.
 
+**MSU Greenline**
+* Fall 2022: *Research Assistant*
+  * Established an open and engaging line of communication between the University and its supporters.
+   * Delivered persuasive sales consultations regarding alumni foundations and student programs.
+   * Educated potential alumni donors on various philanthropic efforts for current students facing financial
+   hardship.
+  * Established and maintained rapport with potential donors.
+   * **Key Result:**  Developed strong sales techniques, contributing to alumni donation growth.
 
-* Fall 2022: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2024: Tour Guide
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Cat Tours**
+* Summer 2024: *Tour Guide*
+  * Led historical tours, offering in-depth knowledge of Barcelona’s key landmarks in the old city.
+   * Duties included: Tagging issues
+   * Supervisor: Professor Git
+  * Strengthened communication and public speaking skills through daily interactions with international visitors.
+   * **Key Result:** Improved customer satisfaction and gained strong leadership skills.
   
 Skills
 ======
