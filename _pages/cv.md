@@ -19,18 +19,18 @@ Work experience
 ======
 * Summer 2023: Enterprise Procurement Intern
   * Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
-o  Identified areas for cost optimization and improved procurement processes.
+    Identified areas for cost optimization and improved procurement processes.
   * Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
-o Implemented supplier consolidation and processed improvements to achieve budgetary goals.
-o Key Result: Contributed to achieving significant cost reductions and efficiency improvements.
-  * Supervisor: The Users
+    Implemented supplier consolidation and processed improvements to achieve budgetary goals.
+  * **Key Result:** Contributed to achieving significant cost reductions and efficiency improvements.
+
 
 * Fall 2022: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2024: Research Assistant
+* Summer 2024: Tour Guide
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
