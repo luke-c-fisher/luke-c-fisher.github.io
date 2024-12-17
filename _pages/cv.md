@@ -13,15 +13,18 @@ Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 * B.A. in Economics, Michigan State University, 2025
-<!-- * B.S. in GitHub, GitHub University, 2012 -->
+  * **GPA:**
+  * **Relevant Coursework:** Introduction to Data Analytics, Computational Modeling.
+  * **Study Abroad:** Economics of Healthcare and Taxes in London, England.
+
 
 Work experience
 ======
 * Summer 2023: Enterprise Procurement Intern
   * Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
-    Identified areas for cost optimization and improved procurement processes.
+    * Identified areas for cost optimization and improved procurement processes.
   * Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
-    Implemented supplier consolidation and processed improvements to achieve budgetary goals.
+    * Implemented supplier consolidation and processed improvements to achieve budgetary goals.
   * **Key Result:** Contributed to achieving significant cost reductions and efficiency improvements.
 
 
