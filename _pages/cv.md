@@ -22,6 +22,7 @@ Work experience
 ======
 **CVS Health**
 * Summer 2023: *Enterprise Procurement Intern*
+* *Woonsocket, RI*
   * Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
     * Identified areas for cost optimization and improved procurement processes.
   * Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
@@ -30,6 +31,7 @@ Work experience
 
 **MSU Greenline**
 * Fall 2022: *Research Assistant*
+* *East Lansing, MI* 
   * Established an open and engaging line of communication between the University and its supporters.
    * Delivered persuasive sales consultations regarding alumni foundations and student programs.
    * Educated potential alumni donors on various philanthropic efforts for current students facing financial
@@ -39,6 +41,7 @@ Work experience
 
 **Cat Tours**
 * Summer 2024: *Tour Guide*
+* *Barcelona, Spain*
   * Led historical tours, offering in-depth knowledge of Barcelona’s key landmarks in the old city.
    * Duties included: Tagging issues
    * Supervisor: Professor Git
