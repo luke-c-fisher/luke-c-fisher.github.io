@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* B.A. in Economics, Michigan State University, 2025
-  * **GPA:**
-  * **Relevant Coursework:** Introduction to Data Analytics, Computational Modeling.
-  * **Study Abroad:** Economics of Healthcare and Taxes in London, England.
+- B.A. in Economics, Michigan State University, 2025
+  - **GPA:**
+  - **Relevant Coursework:** Introduction to Data Analytics, Computational Modeling.
+  - **Study Abroad:** Economics of Healthcare and Taxes in London, England.
 
 
  Work experience
