@@ -52,16 +52,14 @@ Work experience
   - Strengthened communication and public speaking skills through daily interactions with international visitors.
     - **Key Result:** Improved customer satisfaction and gained strong leadership skills.
   
-Skills
+Skills & Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **Skills:**
+  - **Tech Stack:** R (intermediate); Python(Novice); HTML; CSS; Excel; Google Sheets.
+  - Familiar with Git and version control. 
+- **Interests:** Weightlifting; Web Design; Data Analytics; Travel (Spain).
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -81,4 +79,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
