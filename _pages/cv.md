@@ -18,12 +18,13 @@ Education
   * **Study Abroad:** Economics of Healthcare and Taxes in London, England.
 
 
-# Work experience
+ Work experience
 ======
-## **CVS Health**
-**Enterprise Procurement Intern**
-*Woonsocket, RI*
-*Summer 2023*
+
+**CVS Health**
+* **Enterprise Procurement Intern**
+* *Woonsocket, RI*
+* *Summer 2023*
   - Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
     - Identified areas for cost optimization and improved procurement processes.
   - Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
@@ -31,23 +32,25 @@ Education
     - **Key Result:** Contributed to achieving significant cost reductions and efficiency improvements.
 
 **MSU Greenline**
-* Fall 2022: *Research Assistant*
-* *East Lansing, MI* 
-  * Established an open and engaging line of communication between the University and its supporters.
-      * Delivered persuasive sales consultations regarding alumni foundations and student programs.
-      * Educated potential alumni donors on various philanthropic efforts for current students facing financial
+* **Research Assistant**
+* *East Lansing, MI*
+* *Fall 2022*
+  - Established an open and engaging line of communication between the University and its supporters.
+    - Delivered persuasive sales consultations regarding alumni foundations and student programs.
+    - Educated potential alumni donors on various philanthropic efforts for current students facing financial
    hardship.
-  * Established and maintained rapport with potential donors.
-      * **Key Result:**  Developed strong sales techniques, contributing to alumni donation growth.
+  - Established and maintained rapport with potential donors.
+      - **Key Result:**  Developed strong sales techniques, contributing to alumni donation growth.
 
 **Cat Tours**
-* Summer 2024: *Tour Guide*
+*  **Tour Guide**
 * *Barcelona, Spain*
-  * Led historical tours, offering in-depth knowledge of Barcelona’s key landmarks in the old city.
-    * Engaged diverse groups with interactive storytelling and cultural insights.
-    * Demonstrated adaptability and leadership by improvising based on group interests and external factor
-  * Strengthened communication and public speaking skills through daily interactions with international visitors.
-    * **Key Result:** Improved customer satisfaction and gained strong leadership skills.
+* *Summer 2024*
+  - Led historical tours, offering in-depth knowledge of Barcelona’s key landmarks in the old city.
+    - Engaged diverse groups with interactive storytelling and cultural insights.
+    - Demonstrated adaptability and leadership by improvising based on group interests and external factor
+  - Strengthened communication and public speaking skills through daily interactions with international visitors.
+    - **Key Result:** Improved customer satisfaction and gained strong leadership skills.
   
 Skills
 ======
