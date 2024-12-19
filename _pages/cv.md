@@ -18,7 +18,7 @@ Education
   - **Study Abroad:** Economics of Healthcare and Taxes in London, England.
 
 
- Work experience
+Work experience
 ======
 
 **CVS Health**
