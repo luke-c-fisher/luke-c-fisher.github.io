@@ -33,11 +33,11 @@ Work experience
 * Fall 2022: *Research Assistant*
 * *East Lansing, MI* 
   * Established an open and engaging line of communication between the University and its supporters.
-    * Delivered persuasive sales consultations regarding alumni foundations and student programs.
-    * Educated potential alumni donors on various philanthropic efforts for current students facing financial
+      * Delivered persuasive sales consultations regarding alumni foundations and student programs.
+      * Educated potential alumni donors on various philanthropic efforts for current students facing financial
    hardship.
   * Established and maintained rapport with potential donors.
-    * **Key Result:**  Developed strong sales techniques, contributing to alumni donation growth.
+      * **Key Result:**  Developed strong sales techniques, contributing to alumni donation growth.
 
 **Cat Tours**
 * Summer 2024: *Tour Guide*
