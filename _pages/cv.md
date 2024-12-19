@@ -21,13 +21,13 @@ Education
 Work experience
 ======
 **CVS Health**
-* Summer 2023: *Enterprise Procurement Intern*
-* *Woonsocket, RI*
-  * Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
-    * Identified areas for cost optimization and improved procurement processes.
-  * Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
-    * Implemented supplier consolidation and processed improvements to achieve budgetary goals.
-  * **Key Result:** Contributed to achieving significant cost reductions and efficiency improvements.
+-  Summer 2023: *Enterprise Procurement Intern*
+-  *Woonsocket, RI*
+  - Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
+    - Identified areas for cost optimization and improved procurement processes.
+  - Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
+    - Implemented supplier consolidation and processed improvements to achieve budgetary goals.
+    - **Key Result:** Contributed to achieving significant cost reductions and efficiency improvements.
 
 **MSU Greenline**
 * Fall 2022: *Research Assistant*
