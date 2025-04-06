@@ -1,6 +1,6 @@
 ---
-title: Classifying Diabetes
-excerpt: "Using logistic and xgboost models to classify instances of diabetes<br/><img src='/images/500x300.png'>"
+# title: Classifying Diabetes
+excerpt: "Using logistic and xgboost models to classify instances of diabetes<br/><img src='images/diabetes_picture.png'>"
 collection: portfolio
 ---
 
@@ -336,7 +336,9 @@ test_roc_boost = roc(diabetesTst$Diabetes ~ test_prob_boost, plot = TRUE, print.
 ```
 
 ![](classifying_diabetes_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
-\## Model comparison
+\
+
+## Model comparison
 
 ``` r
 metrics <- rbind(
