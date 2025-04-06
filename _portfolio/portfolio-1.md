@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: Classifying Diabetes"
+excerpt: "Using logistic and xgboost models to classify instances of diabetes<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
