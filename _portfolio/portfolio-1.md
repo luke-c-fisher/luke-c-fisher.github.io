@@ -1,10 +1,9 @@
 ---
 # title: Classifying Diabetes
-excerpt: "Using logistic and xgboost models to classify instances of diabetes<br/><img src='images/diabetes_picture.png'>"
+excerpt: "Using logistic and xgboost models to classify instances of diabetes<br/><img src='images/pexels-n-voitkevich-6942015.jpg'>"
 collection: portfolio
 ---
-
-Classifying Diabetes
+# Classifying Diabetes
 ================
 Luke Fisher
 06 April, 2025
@@ -247,7 +246,7 @@ test_prob_log = predict(lrgModel, newdata = diabetesTst, type = "response")
 test_roc_log = roc(diabetesTst$Diabetes ~ test_prob_log, plot = TRUE, print.auc = TRUE)
 ```
 
-![](classifying_diabetes_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![Logistic Model ROC Curve](images/log_ROC-AUC.png)
 
 ## Creating a Boost Model
 
@@ -335,8 +334,8 @@ test_prob_boost = predict(boostMod, newdata = testMatrx, type = "response")
 test_roc_boost = roc(diabetesTst$Diabetes ~ test_prob_boost, plot = TRUE, print.auc = TRUE)
 ```
 
-![](classifying_diabetes_files/figure-gfm/unnamed-chunk-11-1.png)<!-- -->
-\
+![Boost Model ROC curve](images/boost_ROC-AUC.png)
+
 
 ## Model comparison
 
