@@ -1,6 +1,6 @@
 ---
 title: "Diabetes project"
-excerpt: "Using logistic and xgboost models to classify instances of diabetes<br/><img src='/images/500x300.png'>"
+excerpt: "Using logistic and xgboost models to classify instances of diabetes<br/><img src='/images/diabetes_picture.png'>"
 collection: portfolio
 ---
 # Classifying Diabetes
@@ -246,7 +246,7 @@ test_prob_log = predict(lrgModel, newdata = diabetesTst, type = "response")
 test_roc_log = roc(diabetesTst$Diabetes ~ test_prob_log, plot = TRUE, print.auc = TRUE)
 ```
 
-![Logistic Model ROC Curve](images/log_ROC-AUC.png)
+![Logistic Model ROC Curve](/images/log_ROC-AUC.png)
 
 ## Creating a Boost Model
 
@@ -334,7 +334,7 @@ test_prob_boost = predict(boostMod, newdata = testMatrx, type = "response")
 test_roc_boost = roc(diabetesTst$Diabetes ~ test_prob_boost, plot = TRUE, print.auc = TRUE)
 ```
 
-![Boost Model ROC curve](images/boost_ROC-AUC.png)
+![Boost Model ROC curve](/images/boost_ROC-AUC.png)
 
 
 ## Model comparison
