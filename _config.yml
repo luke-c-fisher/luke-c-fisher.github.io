@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_picture.JPG"
+  avatar           : "/images/IMG_0909.jpeg"
   name             : "Luke Fisher"
   pronouns         : # example: "she/her"  
   bio              : "Economics Student"

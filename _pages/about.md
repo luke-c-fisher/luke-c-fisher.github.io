@@ -7,13 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am a senior at Michigan State University. 
-
-- I am currently working towards my Economics degree, with a specialization in Data Analytics.
-
-- My interests are in Predictive Modeling and Data Analysis to solve problems.
-
-- Furthermore, I am interested in the future of machine learning in healthcare and its role in predicting health outcomes.
+I am a senior at Michigan State University, working towards my Economics degree, with a specialization in Data Analytics. My interests are in Predictive Modeling and Data Analysis in solving problems in healthcare. Specificially, I am interested in Machine Learning and its role in predicting health outcomes.
 
 
 
