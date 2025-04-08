@@ -1,9 +1,10 @@
 ---
 title: "Diabetes project"
-excerpt: "Using logistic and xgboost models to classify instances of diabetes<br/><img src='/images/diabetes_picture.png'>"
+excerpt: "Using logistic and xgboost to classify diabetes<br/><img src='/images/diabetes_picture.png'>"
 collection: portfolio
 ---
-# Classifying Diabetes
+Classifying Diabetes
+====
 
 Luke Fisher
 06 April, 2025

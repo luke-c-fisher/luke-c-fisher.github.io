@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<!-- Education -->
 ======
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 - B.A. in Economics, Michigan State University, 2025
@@ -17,6 +17,7 @@ Education
   - **Relevant Coursework:** Introduction to Data Analytics, Computational Modeling.
   - **Study Abroad:** Economics of Healthcare and Taxes in London, England.
 
+!['Resume 2025'](/files/Luke_Fisher_Resume_2025.pdf)
 
 Work experience
 ======
