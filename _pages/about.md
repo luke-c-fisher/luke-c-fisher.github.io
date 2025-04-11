@@ -12,7 +12,5 @@ I am a senior at Michigan State University, working towards my Economics degree 
 My work
 ======
 
-My work is on predictive modeling for disease detection. Specifically, I developed two classifiers using logistic regression and gradient boost to predict diabetes. My goal was to determine the better classifier by comparing their  metrics: accuracy, sensitivity, specificity, and ROC-AUC. In this context, the best classifier was selected based on accuracy and sensitivity, also known as the true positive rate. The latter is crucial because it measures the proportion of correctly identified cases of diabetes. 
-
-This project taught me the importance of error reduction and model selection in building a classifier. 
+My work is on predictive modeling for disease detection. Specifically, I developed two classifiers using logistic regression and gradient boost to predict diabetes. My goal was to determine the better classifier by comparing their  metrics: accuracy, sensitivity, specificity, and ROC-AUC. In this context, the best classifier was selected based on accuracy and sensitivity, also known as the true positive rate. This project taught me the importance of error reduction and model selection in classification. 
 
