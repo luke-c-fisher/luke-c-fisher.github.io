@@ -1,6 +1,6 @@
 ---
 title: "Diabetes project"
-excerpt: "Using logistic and xgboost to classify diabetes<br/><img src='/images/diabetes_picture.png'>"
+excerpt: "Using logistic and xgboost to classify diabetes in R<br/><img src='/images/diabetes_picture.png'>"
 collection: portfolio
 ---
 Classifying Diabetes
