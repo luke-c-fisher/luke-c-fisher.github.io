@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior at Michigan State University, working towards my Economics degree with a specialization in Data Analytics. My interests are in Predictive Modeling and Data Analysis in solving problems in healthcare. Specificially, I am interested in Machine Learning and its role in predicting health outcomes.
+I am a Econ and Analytics grad from Michigan State University. My interests lie in Predictive Modeling and Data Analysis in solving problems in Healthcare. Specificially, I am interested in Algorithms and their role in predicting health outcomes.
+
+My story begins at a small summer camp in New Hampshire. Here, I came across the simple but valuable phrase, "be a pro". It didn't mean anything to me at first—it seemed like a way for my boss to say, "figure it out"—but as camp progressed, It started to make sense; I would think, "be a pro", "be a pro", as I jumped into a kyak to prevent immenant disaster. This mantra would repeat itself in my head each time I faced an unfamiliar task; yet, each time I managed to come out unscathed—better than than I was before. It occured to me here that the phrase, "be a pro", was not merely a suggestion, but an identity. Acting *as if* I was a "pro" made me competent at my job, even if my experience said otherwise. 
+
+Marcus Aurelius once remarked, "Your soul takes on the color of your thoughts", and if your thoughts are colored with a disbelief in yourself, your identity will follow. 
+
  
 My work
 ======
