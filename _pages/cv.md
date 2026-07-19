@@ -16,7 +16,7 @@ redirect_from:
   - **Relevant Coursework:** Introduction to Data Analytics, Computational Modeling.
   - **Study Abroad:** Economics of Healthcare and Taxes in London, England.
 
-[Resume 2025](/files/Luke_Fisher_Resume_2025.pdf)
+[Resume 2025](files/Luke_Fisher_Resume_DA.pdf)
 
 Work experience
 ======
