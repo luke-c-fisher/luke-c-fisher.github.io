@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Resume 2026](/files/Luke_Fisher_Resume_DA.pdf)
+
 
 <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 - B.A. in Economics, Michigan State University, 2025
@@ -16,7 +18,6 @@ redirect_from:
   - **Relevant Coursework:** Introduction to Data Analytics, Computational Modeling.
   - **Study Abroad:** Economics of Healthcare and Taxes in London, England.
 
-[Resume 2026](/files/Luke_Fisher_Resume_DA.pdf)
 
 Work experience
 ======
