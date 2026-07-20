@@ -22,8 +22,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    # url: /cv/
-    url: /files/Luke_Fisher_Resume_DA.pdf
+    url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/

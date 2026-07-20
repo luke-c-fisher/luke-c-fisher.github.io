@@ -9,75 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-[Resume 2026](/files/Luke_Fisher_Resume_DA.pdf)
+# Luke Fisher
+luke.c.fisher@proton.me | (734) 740-8995 | Ann Arbor, MI 
 
+## Professional Summary
+Detail-oriented Economics graduate with hands-on experience in data analysis, reporting, and predictive modeling (R). Background combines quantitative coursework in econometrics and data analytics with direct CVS Health experience translating raw data into cost-saving and process-improvement recommendations. Comfortable coordinating across teams to deliver accurate, deadline-driven reporting.
 
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-- B.A. in Economics, Michigan State University, 2025
-  - **GPA:**
-  - **Relevant Coursework:** Introduction to Data Analytics, Computational Modeling.
-  - **Study Abroad:** Economics of Healthcare and Taxes in London, England.
+## Education
 
+**Michigan State University** — *East Lansing, MI*
+B.A., Economics
 
-Work experience
-======
+- GPA: 3.6; Magna Cum Laude; Dean's List
+- Relevant Coursework: Social Science Data Analytics, Advanced Econometrics, Computational Modeling
+- Study Abroad: Economics of Healthcare and Taxes in London, England
 
-**CVS Health**
-* **Enterprise Procurement Intern**
-* *Woonsocket, RI*
-* *Summer 2023*
-  - Analyzed and interpreted data for the procurement department using tools such as Excel and Google Sheets.
-    - Identified areas for cost optimization and improved procurement processes.
-  - Created Cost-Saving Strategies through price benchmarking and alternative sourcing.
-    - Implemented supplier consolidation and processed improvements to achieve budgetary goals.
-    - **Key Result:** Contributed to achieving significant cost reductions and efficiency improvements.
+## Relevant Projects
 
-**MSU Greenline**
-* **Research Assistant**
-* *East Lansing, MI*
-* *Fall 2022*
-  - Established an open and engaging line of communication between the University and its supporters.
-    - Delivered persuasive sales consultations regarding alumni foundations and student programs.
-    - Educated potential alumni donors on various philanthropic efforts for current students facing financial
-   hardship.
-  - Established and maintained rapport with potential donors.
-      - **Key Result:**  Developed strong sales techniques, contributing to alumni donation growth.
+**Diabetes Classification (R, xgboost)** — *Jan. 2025 – Apr. 2025*
 
-**Cat Tours**
-*  **Tour Guide**
-* *Barcelona, Spain*
-* *Summer 2024*
-  - Led historical tours, offering in-depth knowledge of Barcelona’s key landmarks in the old city.
-    - Engaged diverse groups with interactive storytelling and cultural insights.
-    - Demonstrated adaptability and leadership by improvising based on group interests and external factor
-  - Strengthened communication and public speaking skills through daily interactions with international visitors.
-    - **Key Result:** Improved customer satisfaction and gained strong leadership skills.
-  
-Skills & Interests
-======
-- **Skills:**
-  - **Tech Stack:** R (intermediate); Python(Novice); HTML; CSS; Excel; Google Sheets.
-  - Familiar with Git and version control. 
-- **Interests:** Weightlifting; Web Design; Data Analytics; Travel (Spain).
+- Built and compared two predictive models (logistic regression and gradient boosting) in R to classify diabetes risk from health data
+- Tuned model cutoffs to balance Accuracy, Sensitivity, and Specificity; developed visual output to communicate model performance
+- Evaluated and reported classification metrics to identify the best-performing model, mirroring the type of analytical reporting used to support data-driven business decisions
+- **Key Result:** Logistic and gradient boost models achieved 74% and 75% prediction accuracy, respectively
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+## Work Experience
+
+**CVS Health** — *May 2023 – Aug. 2023*
+Enterprise Procurement Intern — *Woonsocket, RI*
+
+- Analyzed and interpreted procurement data using Excel and Google Sheets to identify cost-optimization opportunities and improve reporting processes
+- Built pricing and sourcing comparisons to develop cost-saving strategies, coordinating with internal stakeholders to validate findings and meet deadlines
+- **Key Result:** Identified $100+ in savings for the procurement department through data-driven sourcing recommendations
+
+**MSU Greenline** — *Sep. 2022 – Dec. 2022*
+Alumni Relations Student Ambassador — *East Lansing, MI*
+
+- Delivered 150+ consultations to alumni donors, translating program and financial information clearly for a non-technical audience
+- Built and maintained relationships with stakeholders under recurring deadlines and reporting targets
+- **Key Result:** Contributed to alumni donations of at least $100 per week through consistent, deadline-driven outreach
+
+**Cat Tours** — *Jun. 2024 – Aug. 2024*
+Tour Guide — *Barcelona, Spain*
+
+- Led 15+ historical tours, adapting content on the fly based on group interests and real-time circumstances
+- Strengthened cross-cultural communication skills through daily coordination with international visitors
+- **Key Result:** Earned 5+ five-star reviews on Guru Walk
+
+## Skills & Interests
+
+- **Data & Reporting:** SQL, R, Excel, Google Sheets, Git
+- **Relevant Knowledge:** Statistical modeling, econometrics, data visualization, financial/cost analysis
+- **Interests:** Weightlifting, Grilling, Hiking, Classic Literature & Philosophy
