@@ -7,12 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a self-taught developer looking to go into Web Development. My interests lie in creating web applications that solve
-problems. 
-
+I am a an Economics and Data Analytics Grad from Michigan State University. 
 
 My work
 ======
 
-<!-- My work is on predictive modeling for disease detection. Specifically, I developed two classifiers using logistic regression and gradient boost to predict diabetes. My goal was to determine the better classifier by comparing their  metrics: accuracy, sensitivity, specificity, and ROC-AUC. In this context, the best classifier was selected based on accuracy and sensitivity, also known as the true positive rate. This project taught me the importance of error reduction and model selection in classification.  -->
+My work is on predictive modeling for disease detection. Specifically, I developed two classifiers using logistic regression and gradient boost to predict diabetes. My goal was to determine the better classifier by comparing their  metrics: accuracy, sensitivity, specificity, and ROC-AUC. In this context, the best classifier was selected based on accuracy and sensitivity, also known as the true positive rate. This project taught me the importance of error reduction and model selection in classification. 
 
