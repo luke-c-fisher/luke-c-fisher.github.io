@@ -1,10 +1,8 @@
 ---
-title: "Predicting Diabetes"
+title: "Classifying Diabetes"
 excerpt: "Using logistic and xgboost to classify diabetes in R<br/><img src='/images/diabetes_picture.png'>"
 collection: portfolio
 ---
-Classifying Diabetes
-====
 
 Luke Fisher
 06 April, 2025
