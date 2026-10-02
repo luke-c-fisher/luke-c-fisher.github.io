@@ -9,13 +9,13 @@ Luke Fisher
 
 ## Introduction
 
-Diabetes is an chronic autoimmune disease affecting millions of
-Americans each year. It is best described as the body’s inability to
-properly produce insulin, or produce any at all. This is a result of
-either an invalid or exhausted pancreas, whose job is to secrete enough
-insulin to manage blood-glucose levels. Normally, insulin is released to
-enable cells to absorb the blood-glucose to use for energy. In this way,
-it acts as a “key” between blood-glucose and cells.
+Diabetes is a chronic condition affecting millions of americans each year.
+Described as the body's inability to properly process blood sugar, diabetes carries with it
+the risk of elevated blood sugar, which can have serious health implications, including [diabetic
+ketoacidosis] (https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)(DKA), if left untreated. This is a result of either an invalid or exhausted pancreas, 
+whose job is to secrete enough insulin to manage blood-glucose levels. Normally, insulin is released to
+enable cells to absorb the blood-glucose to use for energy, acting as a 
+“key” between blood-glucose and cells. 
 
 For a diabetic, however, this “key” doesn’t occur naturally, instead
 taking the form of insulin injections. As such, a diabetic uses a
@@ -30,7 +30,7 @@ The classification will be based on a dataset from the CDCs Behavioral
 Risk Factor Surveillance System (BRFSS). The data contains 70,692
 responses from the 2015 BRFSS survey, each related to risk factors like
 smoking, high cholesterol, and physical activity. Furthermore, the data
-contains an equal 50-50 split of respondents with and without diabetes.
+contains an equal 50-50 split of respondents with and without type II diabetes.
 
 The data is binary, meaning that the predictors take on a value 1 or 0
 depending on whether a condition is present. For instance, if a
