@@ -1,5 +1,5 @@
 ---
-title: "Classifying Diabetes"
+title: "Classifying Type 2 Diabetes"
 excerpt: "Using logistic and xgboost to classify diabetes in R<br/><img src='/images/diabetes_picture.png'>"
 collection: portfolio
 ---
@@ -9,10 +9,8 @@ Luke Fisher
 
 ## Introduction
 
-As one of the most prevalent chronic diseases in the United States, diabetes, 
-and in particular type 2 diabetes, affects the health of millions around the country. 
-Described as the body's inability to properly process blood sugar, diabetes carries 
-serious health implications, including [diabetic ketoacidosis](https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)     (DKA), which can follow from a missed diagnosis, making early identification crucial. 
+Diabetes is one of the most prevalent chronic diseases in the United States, affecting the health of millions around the country. Described as the body's inability to properly process blood sugar, diabetes carries 
+serious health implications, including [diabetic ketoacidosis](https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)     (DKA) and [heart disease](https://simple.wikipedia.org/wiki/Heart_disease), which can follow from a missed diagnosis, making early identification crucial. 
 
 As such, this project aims to prevent the possibilty of a missed diagnosis by predicting the risk of type 2 diabetes. Unlike the autoimmune type 1, type 2 diabetes is a condition strongly associated risk factors like high BMI, cholesterol, and blood pressure. An early diagnosis can lead to better, more effective treatment for patients, helping them avoid adverse health outcomes.
 
