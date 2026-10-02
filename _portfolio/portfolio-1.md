@@ -9,20 +9,15 @@ Luke Fisher
 
 ## Introduction
 
-Diabetes is a chronic condition affecting millions of americans each year.
-Described as the body's inability to properly process blood sugar, diabetes carries with it
-the risk of elevated blood sugar, which can have serious health implications, including [diabetic
-ketoacidosis] (https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)(DKA), if left untreated. This is a result of either an invalid or exhausted pancreas, 
-whose job is to secrete enough insulin to manage blood-glucose levels. Normally, insulin is released to
-enable cells to absorb the blood-glucose to use for energy, acting as a 
-“key” between blood-glucose and cells. 
+As one of the most prevalent chronic diseases in the United States, diabetes, 
+and in particular type 2 diabetes, affects the health of millions around the country. 
+Described as the body's inability to properly process blood sugar, diabetes carries 
+serious health implications, including [diabetic ketoacidosis](https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)(DKA), which can follow from a missed diagnosis, making early identification crucial. 
 
-For a diabetic, however, this “key” doesn’t occur naturally, instead
-taking the form of insulin injections. As such, a diabetic uses a
-glucose monitor to regulate their blood sugar–whose excess or lack
-thereof has detrimental consequences. For this reason, it is important
-to know whether or not someone is diabetic. In this project, I will use
-classification to identify diabetes.
+The aim of this project is to predict the risk of type 2 diabetes, which unlike the autoimmune type 1, is a condition strongly associated risk factors like high BMI, cholesterol, and blood pressure. 
+
+This project builds and compares two classifiers to predict instances of type 2 diabetes 
+based on a survey of health indicators.
 
 ## Data Collection
 
