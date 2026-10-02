@@ -412,8 +412,8 @@ diabetes.
 
 ## Work Cited
 
-Heiser, Tom. “Prediabetes? Type 1 or Type 2 Diabetes? Making Sense of
-These Diagnoses.” Norton Healthcare, 18 Feb. 2025, [article-ref](https://nortonhealthcare.com/news/prediabetes-misdiagnosis/#:~:text=One%20major%20risk%20of%20this,creating%20harmful%20acids%20called%20ketones)
+Heiser, Tom. “Prediabetes? Type 1 or Type 2 Diabetes? Making Sense of These Diagnoses.” *Norton Healthcare*, 18 Feb. 2025, [nortonhealthcare.com/news/prediabetes-misdiagnosis](https://nortonhealthcare.com/news/prediabetes-misdiagnosis/). Accessed 2 Oct. 2026.
 
-Teboul, Alex. “Diabetes Health Indicators Dataset.” Kaggle, 8 Nov. 2021, 
-[link](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset/data?suggestionBundleId=977)
+Teboul, Alex. “Diabetes Health Indicators Dataset.” *Kaggle*, 8 Nov. 2021, [www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset). Accessed 2 Oct. 2026.
+
+Xie, Zidian, et al. "Building Risk Prediction Models for Type 2 Diabetes Using Machine Learning Techniques." *Preventing Chronic Disease*, vol. 16, 2019, article 190109, [doi.org/10.5888/pcd16.190109](https://doi.org/10.5888/pcd16.190109. Accessed 2 Oct. 2026)
