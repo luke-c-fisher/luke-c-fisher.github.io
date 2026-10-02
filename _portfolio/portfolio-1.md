@@ -12,11 +12,11 @@ Luke Fisher
 As one of the most prevalent chronic diseases in the United States, diabetes, 
 and in particular type 2 diabetes, affects the health of millions around the country. 
 Described as the body's inability to properly process blood sugar, diabetes carries 
-serious health implications, including [diabetic ketoacidosis](https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)(DKA), which can follow from a missed diagnosis, making early identification crucial. 
+serious health implications, including [diabetic ketoacidosis](https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)     (DKA), which can follow from a missed diagnosis, making early identification crucial. 
 
-The aim of this project is to predict the risk of type 2 diabetes, which unlike the autoimmune type 1, is a condition strongly associated risk factors like high BMI, cholesterol, and blood pressure. 
+As such, this project aims to prevent the possibilty of a missed diagnosis by predicting the risk of type 2 diabetes. Unlike the autoimmune type 1, type 2 diabetes is a condition strongly associated risk factors like high BMI, cholesterol, and blood pressure. An early diagnosis can lead to better, more effective treatment for patients, helping them avoid adverse health outcomes.
 
-This project builds and compares two classifiers to predict instances of type 2 diabetes 
+To do this, the project builds and compares two classifiers to predict instances of type 2 diabetes 
 based on a survey of health indicators.
 
 ## Data Collection
@@ -25,7 +25,7 @@ The classification will be based on a dataset from the CDCs Behavioral
 Risk Factor Surveillance System (BRFSS). The data contains 70,692
 responses from the 2015 BRFSS survey, each related to risk factors like
 smoking, high cholesterol, and physical activity. Furthermore, the data
-contains an equal 50-50 split of respondents with and without type II diabetes.
+contains an equal 50-50 split of respondents with and without type 2 diabetes.
 
 The data is binary, meaning that the predictors take on a value 1 or 0
 depending on whether a condition is present. For instance, if a
@@ -415,11 +415,11 @@ diabetes.
 ## Work Cited
 
 Heiser, Tom. “Prediabetes? Type 1 or Type 2 Diabetes? Making Sense of
-These Diagnoses.” Norton Healthcare, 18 Feb. 2025,
-nortonhealthcare.com/news/prediabetes-misdiagnosis/#:~:text=One%20major%20risk%20of%20this,creating%20harmful%20acids%20called%20ketones.
+These Diagnoses.” Norton Healthcare, 18 Feb. 2025, [article-ref](https://nortonhealthcare.com/news/prediabetes-misdiagnosis/#:~:text=One%20major%20risk%20of%20this,creating%20harmful%20acids%20called%20ketones)
+
 
 Kirkpatrick, Justin. “12: Applied Logistic Regression - Classification.”
-EC242, ec242.netlify.app/assignment/12-assignment. Accessed 7 Jan. 2025.
+EC242, [link](ec242.netlify.app/assignment/12-assignment. Accessed 7 Jan. 2025)
 
-Teboul, Alex. “Diabetes Health Indicators Dataset.” Kaggle, 8 Nov. 2021,
-www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset.
+Teboul, Alex. “Diabetes Health Indicators Dataset.” Kaggle, 8 Nov. 2021, 
+[link](www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
