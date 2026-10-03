@@ -1,5 +1,5 @@
 ---
-title: "Classifying Type 2 Diabetes"
+title: "Classifying Diabetes"
 excerpt: "Using logistic and xgboost to classify diabetes in R<br/><img src='/images/diabetes_picture.png'>"
 collection: portfolio
 ---
@@ -415,7 +415,7 @@ cases is significant for the reasons laid out above. As such, we can
 conclude that the boost model is a superior option for predicting
 diabetes.
 
-## Work Cited
+## Works Cited
 
 Heiser, Tom. “Prediabetes? Type 1 or Type 2 Diabetes? Making Sense of These Diagnoses.” *Norton Healthcare*, 18 Feb. 2025, [nortonhealthcare.com/news/prediabetes-misdiagnosis](https://nortonhealthcare.com/news/prediabetes-misdiagnosis/). Accessed 2 Oct. 2026.
 
