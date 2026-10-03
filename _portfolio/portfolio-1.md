@@ -7,15 +7,20 @@ collection: portfolio
 Luke Fisher
 06 April, 2025
 
+## Summary 
+
+**Goal:** Predict diabetes using 21 different health indicators. **Methods:** Logistic regression and XGBoost with holdout validation.
+**Result:** Both models reach 75% accuracy and 0.83 AUC, with boosting improving sensitivity from 77% to 80%.
+
 ## Introduction
 
 Diabetes is one of the most prevalent chronic diseases in the United States, affecting the health of millions around the country. Described as the body's inability to properly process blood sugar, diabetes carries 
 serious health implications, including [diabetic ketoacidosis](https://en.wikipedia.org/wiki/Diabetic_ketoacidosis)     (DKA) and [heart disease](https://simple.wikipedia.org/wiki/Heart_disease), which can follow from a missed diagnosis, making early identification crucial. 
 
-As such, this project aims to prevent the possibilty of a missed diagnosis by predicting the risk of type 2 diabetes. Unlike the autoimmune type 1, type 2 diabetes is a condition strongly associated risk factors like high BMI, cholesterol, and blood pressure. An early diagnosis can lead to better, more effective treatment for patients, helping them avoid adverse health outcomes.
+ Most cases of diabetes are type 2, which, unlike the autoimmune type 1, is a condition strongly associated risk factors like high BMI, cholesterol, and blood pressure. An early diagnosis can lead to better, more effective treatment for patients, helping them avoid adverse health outcomes.
 
-To do this, the project builds and compares two classifiers to predict instances of type 2 diabetes 
-based on a survey of health indicators.
+Inspired by prior type 2 risk models built on CDC survey data (Xie et al., 2019), this project builds and compares two classifiers that predict self-reported diabetes or prediabetes from a survey of health indicators.
+
 
 ## Data Collection
 
@@ -23,14 +28,14 @@ The classification will be based on a dataset from the CDCs Behavioral
 Risk Factor Surveillance System (BRFSS). The data contains 70,692
 responses from the 2015 BRFSS survey, each related to risk factors like
 smoking, high cholesterol, and physical activity. Furthermore, the data
-contains an equal 50-50 split of respondents with and without type 2 diabetes.
+contains an equal 50-50 split of respondents with and without diabetes.
 
 The data is binary, meaning that the predictors take on a value 1 or 0
 depending on whether a condition is present. For instance, if a
 respondent has a smoking habit they will be assigned a 1 for the smoking
 column; otherwise, they will receive a 0. There are some exceptions to
 this like BMI and age, where the values are continuous. For our purpose,
-we will cross-validate the data set.
+we will holdout validate the data set.
 
 ## Methodology
 
@@ -144,7 +149,7 @@ testPred_05 = get_logistic_pred(lrgModel, diabetesTst, res = "Diabetes",
 pos = "yes", neg = "no", cut = 0.9)
 
 
-# Evaluate Accuaracy, Sensitivity, and Specificity for each cutoff
+# Evaluate Accuracy, Sensitivity, and Specificity for each cutoff
 testTab_01 <- table(predicted = testPred_01, actual = diabetesTst$Diabetes)
 testTab_02 <- table(predicted = testPred_02, actual = diabetesTst$Diabetes)
 testTab_03 <- table(predicted = testPred_03, actual = diabetesTst$Diabetes)
@@ -214,7 +219,7 @@ pos = "yes", neg = "no", cut = 0.5)
 # Predict on the training data
 trainErr_03 = calcErr(actual = diabetesTrn$Diabetes, predicted = trainPred_03)
 
-# Calculate test error (already done in your code)
+# Calculate test error 
 testErr_03 = calcErr(actual = diabetesTst$Diabetes, predicted = testPred_03)
 
 # Compare train and test errors
